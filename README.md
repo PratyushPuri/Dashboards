@@ -1,3 +1,4 @@
+
 # 📊 Data Visualization Dashboards  
 *Power BI • Looker Studio • Tableau*
 
@@ -88,7 +89,9 @@ These dashboards are designed to transform raw data into compelling stories, pro
 #### Power BI
 
 - Clone the repository
-> git clone https://github.com/pratyushpuri/your-repo-name.git
+```
+ git clone https://github.com/pratyushpuri/your-repo-name.git
+```
 - Open the .pbix file in Power BI Desktop
 
 #### Looker Studio
@@ -121,10 +124,21 @@ These dashboards are designed to transform raw data into compelling stories, pro
 We welcome contributions from the community! To get started:
 
 1. **Fork** this repository.
-2. **Create a branch** (`git checkout -b feature/your-feature`).
-3. **Commit your changes** (`git commit -m 'Add new dashboard feature'`).
-4. **Push to the branch** (`git push origin feature/your-feature`).
-5. **Open a Pull Request** describing your changes.
+2. **Create a branch** 
+
+      ```
+   git checkout -b feature/your-feature
+      ```
+
+4. **Commit your changes**
+   ```
+   git commit -m 'Add new dashboard feature'
+   ```
+6. **Push to the branch**
+   ```
+   git push origin feature/your-feature
+   ```
+8. **Open a Pull Request** describing your changes.
 
 **Best Practices:**
 - Ensure dashboards are well-documented and visually consistent.
@@ -136,7 +150,7 @@ We welcome contributions from the community! To get started:
 ## 📬 Contact
 
 Have questions, suggestions, or want to collaborate?  
-Visit my [Portfolio](https://pratyushpuri.github.io/PratyushProfile/) for more information and contact details.
+Visit me [here](https://pratyushpuri.github.io/PratyushProfile/) for more information and contact details.
 
 ---
 
